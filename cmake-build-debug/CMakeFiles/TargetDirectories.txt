@@ -1,0 +1,3 @@
+/home/abmala/projectc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abmala/projectc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abmala/projectc/cmake-build-debug/CMakeFiles/projectc.dir
